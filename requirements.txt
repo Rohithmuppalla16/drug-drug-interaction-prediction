@@ -1,0 +1,13 @@
+torch
+torch_geometric
+dgl
+rdkit
+deepchem
+gensim
+transformers
+networkx
+pandas
+numpy
+scikit-learn
+seaborn
+matplotlib
